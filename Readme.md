@@ -1,0 +1,3 @@
+luni
+marti
+joi 
